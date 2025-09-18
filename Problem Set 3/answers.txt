@@ -1,0 +1,12 @@
+sort1 uses: Bubble sort
+
+How do you know?: Slower to sort random or reversed sets - O(n^2) - but quick to sort a best case scenario set - O(1)
+
+sort2 uses: Merge sort
+
+How do you know?: Quickest to sort random50000.txt, which is O(nlogn)
+
+sort3 uses: Selection sort
+
+How do you know?: Slower to sort random or reversed sets - O(n^2) - and still slow to sort an already sorted set - O(n^2) -
+because it still needs to iterate through every loop.
